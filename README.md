@@ -1,6 +1,6 @@
 ### Description
 
-Let's do some molecular dynamics on GPCRs and make use of our fancy [mode coupling library](https://github.com/https://github.com/muzcuk/modeCouplingAnalysis.jl).
+Let's do some molecular dynamics on GPCRs and make use of our fancy [mode coupling library](https://github.com/muzcuk/modeCouplingAnalysis.jl).
 
 ### Literature
 
